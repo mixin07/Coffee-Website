@@ -2,7 +2,7 @@
 
 **Brew & Beam** is a modern, responsive coffee shop website designed to provide a premium digital experience for customers. The project features a clean aesthetic, a categorized menu, and interactive elements to showcase the best of the "Brew & Beam" brand.
 
-**Live Site:** [https://brew-and-beam.netlify.app/](https://brew-and-beam.netlify.app/)
+**Live Site:** https://brewandbeam-a-coffee-website.vercel.app/
 
 ## 🌟 Project Overview
 
