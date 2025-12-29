@@ -38,7 +38,7 @@ Brew&Beam/
 
 ## 🚀 Deployment
 
-The project is hosted via **Netlify**, which is connected directly to the GitHub repository. This allows for **Continuous Deployment**, meaning the live site updates automatically whenever new code is pushed to the `main` branch.
+The project is hosted via **Vercel**, which is connected directly to the GitHub repository. This allows for **Continuous Deployment**, meaning the live site updates automatically whenever new code is pushed to the `main` branch.
 
 ## 👤 Author
 
