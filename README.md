@@ -22,7 +22,6 @@ This website serves as a comprehensive digital storefront for a coffee house. It
 * **HTML5:** Semantic markup for structure and accessibility.
 * **CSS3:** Custom styling using Flexbox and CSS Grid for a fully responsive layout.
 * **JavaScript:** Handles the navigation menu toggle and initializes the Swiper carousel.
-* **Swiper.js:** A modern touch slider used for the testimonials section.
 * **Font Awesome:** Scalable vector icons for social media and contact details.
 
 ## 📂 Project Structure
@@ -46,3 +45,4 @@ The project is hosted via **Netlify**, which is connected directly to the GitHub
 * **LinkedIn:** [j-mirudhula](https://www.google.com/search?q=https://www.linkedin.com/in/j-mirudhula)
 * **GitHub:** [@mixin07](https://github.com/mixin07)
 
+Built with ❤️ by Mirudhula...
